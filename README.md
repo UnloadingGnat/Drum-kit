@@ -1,3 +1,3 @@
 # Drum-kit
 
-test
+Simple drum kit made with JS - ba dum tss
